@@ -1,4 +1,4 @@
-dectobin
-========
+G-Mail bomber
 
-Decimal to Binary (Python)
+====================
+G-mail Bomber (Python)
